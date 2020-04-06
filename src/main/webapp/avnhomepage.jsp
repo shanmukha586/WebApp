@@ -58,7 +58,7 @@ color:white;
 <a href="${pageContext.request.contextPath}/viewticket.do" style="color: white;font-size: 20px;position: absolute;left:75px;">View</a><br>
 </section>
 <section class="wlp-login-message-content" style="left: 900px;top: 210px;">
-<b><p style="text-align: center;font-size: 25px;">PAYMENT</p></b>
+<b><p style="text-align: center;font-size: 25px;">BILLING</p></b>
 <a href="" style="color: white;font-size: 20px;position: absolute;left:69px;">Create</a><br>
 <a href="" style="color: white;font-size: 20px;position: absolute;left:73px;">View</a><br>
 <a href="" style="color: white;font-size: 20px;position: absolute;left:56px;">Configure</a><br>
