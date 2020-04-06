@@ -169,6 +169,23 @@ position: absolute;
 <br><br><br>
 <section class="wlp-login-message-content">
 <p><b>
+    <i>
+    <font color="red">COVID-19 Instructions.Please follow until invent vaccine</font>
+    </i>
+    </b>
+    <br><br>
+    1.Clean your hands often<br>
+2.Avoid close contact<br>
+3.Cover your mouth and nose with a cloth face cover when around others<br>
+4.Cover coughs and sneezes<br>
+5.Clean and disinfect<br>
+    <br><br>
+    <i>
+    <font color="red"> <a href="https://www.cdc.gov/coronavirus/2019-ncov/communication">for more information please click here </a> </font>
+    <br><br>
+    </i>
+    <p>
+<p><b>
 <i>
 <font color="darkorange">Help Desk</font>
 </i>
